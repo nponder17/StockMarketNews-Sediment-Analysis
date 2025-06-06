@@ -1,0 +1,95 @@
+Subreddit,Ticker,Title,Score,Date Posted,URL,Text,Sentiment Label,Sentiment Score
+stocks,NVDA,Is NVIDIA Getting Too Hot? My Short-Term Concerns with NVDA ($141.92),5,2025-06-05 13:30:57,https://www.reddit.com/r/stocks/comments/1l3z97o/is_nvidia_getting_too_hot_my_shortterm_concerns/,"I wrote my thesis on Palantir 30 mins before posting this one and looks like folks are not liking it. Long term NVDA could go up. This is purely a short term play. 
+
+This is going to be a similar take to that one. 
+
+NVIDIA’s been on an insane run lately. It was up over 20% since mid May and pushing back to all time highs around $142. The AI hype is obviously still alive and well. I genuinely believe AI is the future but still we need to be a bit more realistic.
+
+Here’s what’s making me cautious:
+
+* Options activity is nuts right now — the $140–$150 calls are getting snapped up like crazy
+* Lots of short-dated call buying, mostly retail
+* The whole “it can’t go down” vibe is creeping back in
+* The stock’s up 10–12% straight with barely any pause
+
+To be clear, I’m not saying NVDA is a bad company. It’s a beast, and the AI story is real. But even the strongest stocks usually pull back a bit after a move like this.
+
+I’m looking at a possible short if it pushes into the $143–$145 range. Nothing aggressive, just a trade idea. Thinking we could see a pullback to $135ish (which lines up with the last breakout zone).
+
+If it breaks above $147 though, I’m out. Could easily rip to $150+ from there.
+
+Not trying to fade the long-term trend here. I am just synthesizing unusual market activity, insider moves, options flow, sentiment, technical and news analysis.
+
+Disclaimer: Not Financial Advice.",Positive,0.8685
+investing,NVDA,Nvidia's 24M shares on Coreweave,1,2025-06-05 15:41:07,https://www.reddit.com/r/investing/comments/1l42f3t/nvidias_24m_shares_on_coreweave/,"Nvidia's biggest bet of Q1 2025 buying 24 million shares of CoreWeave, a GPU-native cloud provider purpose-built for AI. That stake is worth about $3 billion now. Current price is $147 had it's all time high yesterday at $166.63.
+
+This isn't just another chip sale. It’s vertical integration in action.
+
+
+
+What’s CoreWeave?
+
+CoreWeave is a cloud company, but not like AWS or Azure. Their entire data center infrastructure is optimized exclusively for AI workloads—think LLMs, generative AI, and high-performance compute. And guess whose chips are powering all of it? Nvidia’s H100s, A100s, and GH200s.
+
+So Nvidia didn’t just help CoreWeave scale. It bought in.
+
+
+
+Nvidia X CoreWeave
+
+2023: Nvidia helped CoreWeave get access to high-demand GPUs.
+
+2024: It helped them expand their data centers.
+
+2025: Nvidia officially became a major shareholder pre-IPO.
+
+CoreWeave went public in March 2025 and the stock has already tripled. Nvidia bought in early, is sitting on massive gains, and now holds strategic influence over one of the fastest-growing AI-native cloud platforms out there.
+
+
+
+Why this is different?
+
+Nvidia has made other AI investments—ARM, Applied Digital, Recursion Pharma, Nebius, WeRide—but CoreWeave is the only one they increased in 2025. Others were trimmed. That says a lot about where their conviction lies.
+
+And it’s easy to see why. CoreWeave isn’t building general-purpose cloud infrastructure. It’s building the AI-first cloud-tailored from the ground up to train and deploy models faster and more efficiently than legacy platforms.
+
+
+
+Is Coreweave good for long term play? Will it stil be smart to get it now? or this is just hype?",Positive,0.9859
+wallstreetbets,TSLA,$61k TSLA Puts,66,2025-06-05 14:56:09,https://www.reddit.com/r/wallstreetbets/comments/1l419w0/61k_tsla_puts/,"https://preview.redd.it/kv0n4ehid45f1.png?width=631&format=png&auto=webp&s=46a9a6dc306e44a9c03994e08b45dce91b708a9b
+
+https://preview.redd.it/ilp39v8xg45f1.png?width=610&format=png&auto=webp&s=49d9854e8b8d898a57b9a2816f33894e2e19144d
+
+  
+*35x TSLA Jul18'25 300 Put*
+
+Alright regards, here's why there's still plenty of juice left in this TSLA correction.
+
+1) Robotaxi release is gonna be a total bust/sell-the-news. Nobody trusts FSD, nobody would hop in a Tesla when they could easily get a Waymo that has been tested for multiple years. Press is going to be watching like a hawk for any mishaps/bugs, which there will be. This is definitely not going to be what investors were hoping for.  
+  
+2) Robotaxi release is high-risk, expect to see investors close positions leading up to the event. Cue in any number of videos showing FSD mowing down pedestrians or showing how bad a camera-only system is. I wouldn't want to risk a large position going into this. This whole robotaxi venture was dead the moment Enron refused to put LiDAR on the cars.  
+  
+3) There was hype surrounding Enron's departure from the administration. Would've taken a goddamn miracle but honestly if he left the administration quietly, making sure not to burn any bridges, maybe he could save the brand a bit while still getting the benefits of being close to the admin. Except now he's getting in brawls with the administration and trashing their bill. He's burning all the bridges.
+
+4) Declining sales and other stuff that doesn't actually affect the stock price at all.
+
+5) CPI next week, likely to actually start showing the effects of tariffs.
+
+Started my account this year and I'm up about $96k (img attached for proof) so combine that fact with this being a regarded TSLA play, I'm fully ready to lose all this shit.",Positive,0.9291
+wallstreetbets,^GSPC,SPY vs SPX,226,2025-06-04 20:29:22,https://www.reddit.com/r/wallstreetbets/comments/1l3g733/spy_vs_spx/,"So I used to trade SPY every day. Nice liquidity, cheap contracts, vibes were good. Until tax season hit me like a margin call and I realized half my gains were going to the government. Cool. Love that.
+
+Then I found SPX. Big brother version. Ten times the size. Zero assignment risk. And Uncle Sam only takes 23 percent thanks to that sweet 6040 rule. If you don’t know what that is, congrats, you’re about to save a fat chunk on taxes.
+
+SPY is an ETF. Every gain is short-term capital gains. SPX is an index. It’s cash-settled. The IRS treats 60 percent of your gains as long-term even if you sell five minutes later. That means if you’re trading SPX and making money, you’re keeping a lot more of it. It adds up fast.
+
+Also, no risk of early assignment. No waking up to some random shares you didn’t ask for. SPX options are European style and cash-settled, which means it just gives you money or takes your money. No shares. No drama.
+
+Now if you trade straddles or spreads like I do, SPX just moves cleaner. SPY gets wrecked on sideways chop. SPX holds value better and doesn’t collapse like a dying meme coin when nothing happens.
+
+Only downside? SPX contracts are pricey. Like 2000 bucks versus 200 for SPY. But the thing is, one SPX contract moves like 10 spy contracts. You don’t need to size up like a degenerate. One good play and it prints, (or takes your soul). 
+
+SPX gang. Less tax. Cleaner trades. Fewer headaches.
+
+So which do you prefer and why? 
+
+If you’re not profitable, please ignore.",Positive,0.9876
